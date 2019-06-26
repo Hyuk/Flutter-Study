@@ -11,3 +11,4 @@
 * [Display a snackbar](https://github.com/Hyuk/Flutter-Study/tree/master/cookbook_design_2)
 * [Use a custom font](https://github.com/Hyuk/Flutter-Study/tree/master/cookbook_design_3)
 * [Use a FontAwesome font icon](https://github.com/Hyuk/Flutter-Study/tree/master/cookbook_design_4)
+* [Update the UI based on orientation](https://github.com/Hyuk/Flutter-Study/tree/master/cookbook_design_5)
