@@ -9,4 +9,4 @@
 ### Design
 * [Add a Drawer to a screen](https://github.com/Hyuk/Flutter-Study/tree/master/cookbook_design_1)
 * [Display a snackbar](https://github.com/Hyuk/Flutter-Study/tree/master/cookbook_design_2)
-* [Export fonts from a package](https://github.com/Hyuk/Flutter-Study/tree/master/cookbook_design_3)
+* [Use a custom font](https://github.com/Hyuk/Flutter-Study/tree/master/cookbook_design_3)
