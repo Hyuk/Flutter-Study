@@ -1,5 +1,9 @@
 # Use a custom font
 
+* Download fonts from [google](https://fonts.google.com/)
+* Place the font into the fonts folder in the root (please create a font folder in the root)
+
+* pubspec.yaml
 ```yaml
 name: cookbook_design_3
 description: A new Flutter project.
@@ -33,7 +37,7 @@ flutter:
           weight: 700
   uses-material-design: true
 ```
-
+* lib/main.dart
 ```dart
 import 'package:flutter/material.dart';
 
