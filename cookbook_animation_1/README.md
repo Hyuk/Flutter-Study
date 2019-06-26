@@ -1,6 +1,9 @@
 # Animate the properties of a container
 
-* 1 stateful widget, Use Math Library in order to generate random number
+* 1 stateful widget
+* Use Math Library in order to generate random number
+* Use AnimatedContainer for the animation
+
 ```dart
 import 'dart:math';
 
