@@ -12,3 +12,4 @@
 * [Use a custom font](https://github.com/Hyuk/Flutter-Study/tree/master/cookbook_design_3)
 * [Use a FontAwesome font icon](https://github.com/Hyuk/Flutter-Study/tree/master/cookbook_design_4)
 * [Update the UI based on orientation](https://github.com/Hyuk/Flutter-Study/tree/master/cookbook_design_5)
+* [Use themes to share colors and font styles](https://github.com/Hyuk/Flutter-Study/tree/master/cookbook_design_6)
